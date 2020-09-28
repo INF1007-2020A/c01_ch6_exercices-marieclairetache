@@ -21,6 +21,7 @@ def anagrams(words: list = None) -> bool:
         
         for i in chaine2:
             liste2.append(i)
+            
             print(words[0], qoesa)
         pass
 
