@@ -17,7 +17,6 @@ liste1, liste2 = [], []
         chaine2= input()
         liste1, liste2 = sorted(list(chaine1)), sorted(liste(chaine2))
 
-        pass
 
     return liste1 == liste2
 
