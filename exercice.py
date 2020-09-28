@@ -23,7 +23,7 @@ def anagrams(words: list = None) -> bool:
             liste2.append(i)
 
         liste1.sort()
-        liste
+        liste2
             print(words[0], qoesa)
         pass
 
