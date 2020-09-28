@@ -5,7 +5,7 @@
 def order(values: list = None) -> bool:
     if values is None:
         # TODO: Demander les valeurs ici
-        values = [input("entrez")]
+        values = [input("entrez...")]
         list.sort()
         pass
 
