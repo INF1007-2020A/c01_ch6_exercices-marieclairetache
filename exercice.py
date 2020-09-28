@@ -11,6 +11,7 @@ def order(values: list = None) -> bool:
 
 
 def anagrams(words: list = None) -> bool:
+liste1, list
     if words is None:
         chaine1= input()
         chaine2= input()
