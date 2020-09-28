@@ -18,11 +18,13 @@ liste1, liste2 = [], []
         liste1, liste2 = sorted(list(chaine1)), sorted(liste(chaine2))
 
 
-    return liste1 == liste2
+   
 
 
 def contains_doubles(items: list) -> bool:
     return False
+
+
 
 
 def best_grades(student_grades: dict) -> dict:
