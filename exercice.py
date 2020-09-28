@@ -19,7 +19,7 @@ liste1, liste2 = [], []
 
         pass
 
-    return False
+    return liste1 == liste2
 
 
 def contains_doubles(items: list) -> bool:
