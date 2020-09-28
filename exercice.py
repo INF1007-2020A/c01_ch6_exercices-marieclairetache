@@ -12,7 +12,7 @@ def order(values: list = None) -> bool:
 
 def anagrams(words: list = None) -> bool:
     if words is None:
-        print
+        print(words[0], qoesa)
         pass
 
     return False
